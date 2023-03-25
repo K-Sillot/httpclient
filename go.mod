@@ -1,4 +1,4 @@
-module github.com/siyuan-note/httpclient
+module github.com/K-Sillot/httpclient
 
 go 1.18
 
