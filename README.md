@@ -2,7 +2,7 @@
 
 ## 💡 Introduction
 
-HTTP Client for SiYuan.
+HTTP Client for Sillot.
 
 ## 🙏 Acknowledgement
 
